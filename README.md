@@ -63,9 +63,11 @@ This command creates the generated files that parse each Record from Firestore i
 - หน้าเข้าสู่ระบบ จะเข้าได้ต้องทำการสมัครเป็นสมาชิกก่อน(Signup) หรือ เป็นสมาชิกแล้วแต่ลืมรหัสผ่าน(Forget password)
 ### Sign up
 ![sign up](https://user-images.githubusercontent.com/86649939/159638543-269b17ef-83e9-42a5-8f61-94dcf2992538.PNG)
+- หน้าสมัครให้กรอกรายละเอียดต่างๆ เมื่อกรอกครบแล้วกด Signup จะเข้าสู่ระบบทันที
 ### Forget password
 ![forget1](https://user-images.githubusercontent.com/86649939/159638595-26d50cec-111c-451c-a90f-cff302577faa.PNG)
 ![forget2](https://user-images.githubusercontent.com/86649939/159638604-5b17585a-1ac5-4681-bdd8-9804dcb19424.PNG)
+
 ### หน้าหลัก Home
 ![Home](https://user-images.githubusercontent.com/86649939/159638667-b5bc5e31-61e1-45d4-9f9c-54ab32e5df24.PNG)
 ![show](https://user-images.githubusercontent.com/86649939/159638676-e539d140-9e00-44f2-84ac-b5868d72b90b.PNG)
