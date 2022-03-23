@@ -67,7 +67,7 @@ This command creates the generated files that parse each Record from Firestore i
 ### Forget password
 ![forget1](https://user-images.githubusercontent.com/86649939/159638595-26d50cec-111c-451c-a90f-cff302577faa.PNG)
 ![forget2](https://user-images.githubusercontent.com/86649939/159638604-5b17585a-1ac5-4681-bdd8-9804dcb19424.PNG)
-
+- เมื่อคุณลืมรหัสผ่าน ให้กรอกอีเมลที่คุณสมัคร ระบบจะทำการส่งลึ้ง reset password เพื่อที่จะให้คุณเปลี่ยนรหัสผ่านใหม่
 ### หน้าหลัก Home
 ![Home](https://user-images.githubusercontent.com/86649939/159638667-b5bc5e31-61e1-45d4-9f9c-54ab32e5df24.PNG)
 ![show](https://user-images.githubusercontent.com/86649939/159638676-e539d140-9e00-44f2-84ac-b5868d72b90b.PNG)
