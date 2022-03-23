@@ -52,7 +52,7 @@ This command creates the generated files that parse each Record from Firestore i
 ### หน้า แสดงรายการ
 ![list](https://user-images.githubusercontent.com/86649939/159634785-48a50a23-915c-49cf-affe-f0b17453705a.PNG)
 ![add](https://user-images.githubusercontent.com/86649939/159634091-3a67d4f1-12cb-415e-8802-55d085b75b9c.PNG)
-- จะแสดงรายการที่เราได้สร้างไว้
+- จะแสดงรายการที่เราได้สร้างไว้ เมื่อคุณต้องการที่จะสร้างรายการให้กดที่ Icon ขวาบน จะแสดงหน้ารายละเอียดที่ต้องกรอก แล้วกด add ถือว่าสร้างสำเร็จ
 ### แสดงโปรไฟร์
 ![Drawer](https://user-images.githubusercontent.com/86649939/159634153-03706112-15cc-4459-a7eb-b0390aab4894.PNG)
 - จะแสดงชื่อและรูปภาพ และสามารถ login ออกได้เมื่อต้องการ
