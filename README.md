@@ -11,8 +11,8 @@
 FlutterFlow projects are built to run on the Flutter _stable_ release.
 
 ## Cilp
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
-https://www.youtube.com/watch?v=SA8-Indp9Lw
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=SA8-Indp9Lw)
+
 ### IMPORTANT:
 
 For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
