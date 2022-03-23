@@ -5,17 +5,17 @@
 ### ที่มาของปัญหา
 - ในการเลือกบ้านเราไม่รู้แน่ชัดว่าบ้านที่โพสต์นั้นมันเช่าหรือจะในการต่อสื่อสารมันค่อนข้างไม่สะดวก
 
-## Getting Started
+## เริ่มต้น
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+โปรเจ็กต์ FlutterFlow สร้างขึ้นเพื่อรันบน Flutter รุ่นเสถียร
 
 ## Cilp
 [[video cilp demo]](https://www.youtube.com/watch?v=SA8-Indp9Lw)
 - 
 
-### IMPORTANT:
+### สิ่งสำคัญ:
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+สำหรับโปรเจ็กต์ที่มีการรวม Firestore คุณต้องรันคำสั่งต่อไปนี้ก่อนเพื่อให้แน่ใจว่าโปรเจ็กต์คอมไพล์:
 
 ```
 flutter pub get
