@@ -1,0 +1,22 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "addall",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "addh",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "addm",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "adddp",
+          "order": "ASCENDING"
+        }
+      ]
+    }
+  ]
+}
