@@ -41,7 +41,8 @@ This command creates the generated files that parse each Record from Firestore i
 ### หน้าหลัก Home
 ![Home](https://user-images.githubusercontent.com/86649939/159633012-e325ebb9-7906-47da-be2a-fec049159c51.PNG)
 ![show](https://user-images.githubusercontent.com/86649939/159633993-c7c653ee-8a3d-47a6-8688-cf7d78e32840.PNG)
-+หน้าจะแสดงรายการบ้านชนิดต่างให้เลือกเมื่อกดเข้าไปจะแสดงข้อมูลบ้านให้เห็น
+
+- หน้าจะแสดงรายการบ้านชนิดต่างให้เลือกเมื่อกดเข้าไปจะแสดงข้อมูลบ้านให้เห็น
 ### หน้า Chat
 ![chat](https://user-images.githubusercontent.com/86649939/159633619-612a7cad-d1b9-4461-9e99-26366127d80b.PNG)
 ![chat](https://user-images.githubusercontent.com/86649939/159634872-d514885b-fbd1-4bc0-9cc1-7f68d17b99e4.PNG)
