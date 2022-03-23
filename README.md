@@ -60,6 +60,7 @@ This command creates the generated files that parse each Record from Firestore i
 ## Mobile application
 ### Login
 ![login](https://user-images.githubusercontent.com/86649939/159638507-b881e703-1f30-4033-9629-dcf8814249fc.PNG)
+- หน้าเข้าสู่ระบบ จะเข้าได้ต้องทำการสมัครเป็นสมาชิกก่อน(Signup) หรือ เป็นสมาชิกแล้วแต่ลืมรหัสผ่าน(Forget password)
 ### Sign up
 ![sign up](https://user-images.githubusercontent.com/86649939/159638543-269b17ef-83e9-42a5-8f61-94dcf2992538.PNG)
 ### Forget password
