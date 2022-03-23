@@ -12,6 +12,7 @@ FlutterFlow projects are built to run on the Flutter _stable_ release.
 
 ## Cilp
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=SA8-Indp9Lw)
+- 
 
 ### IMPORTANT:
 
@@ -30,11 +31,11 @@ This command creates the generated files that parse each Record from Firestore i
 
 
 ## Mobile application - Figma
-### Login
+### เข้าสู่ระบบ
 ![login](https://user-images.githubusercontent.com/86649939/159632892-8b156cb8-0643-4b5f-ae78-a3aad65211d0.PNG)
-### Sign up
+### สมัครเป็นสมาชิก
 ![Signup](https://user-images.githubusercontent.com/86649939/159632914-fb00a32b-8385-4b75-9c96-eb1107baea3b.PNG)
-### Forget password
+### ลืมรหัสผ่าน
 ![Forget1](https://user-images.githubusercontent.com/86649939/159632948-428f4e9c-3da3-4018-86c9-c469a25eac06.PNG)
 ![Forget2](https://user-images.githubusercontent.com/86649939/159632932-db8d46e5-24b6-4556-a8a0-92a9675e128a.PNG)
 ### หน้าหลัก Home
