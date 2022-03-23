@@ -1,6 +1,6 @@
 # HomeSellapps
 
-A new Flutter project.
+แอปซื้อและเช่าบ้าน
 
 ## Getting Started
 
