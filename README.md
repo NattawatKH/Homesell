@@ -2,16 +2,19 @@
 
 แอป ซื้อและเช่าบ้าน โดยให้ผู้ใช้มาลงข้อมูลบ้านที่ต้องการจะขายหรือเช่า
 
-### ที่มาของปัญหา
+# ที่มาของปัญหา
 - ในการเลือกบ้านเราไม่รู้แน่ชัดว่าบ้านที่โพสต์นั้นมันเช่าหรือจะในการต่อสื่อสารมันค่อนข้างไม่สะดวก
 
 
-## Cilp
-[[video cilp demo]](https://www.youtube.com/watch?v=SA8-Indp9Lw)
 
-## Use Case Diagram
+
+# Use Case Diagram
 
 ![HomeApp Use case - Page 1](https://user-images.githubusercontent.com/86649939/159619909-2bc51f2d-8f8c-4eb9-bca3-0334bb3698d9.png?width=200&height=200)
+
+
+# Cilp
+[[video cilp demo]](https://www.youtube.com/watch?v=SA8-Indp9Lw)
 
 ## เริ่มต้น
 
@@ -30,7 +33,7 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 คำสั่งนี้สร้างไฟล์ที่สร้างขึ้นซึ่งแยกวิเคราะห์แต่ละเร็กคอร์ดจาก Firestore เป็นอ็อบเจ็กต์สคีมา
 
 
-## Mobile application - Figma
+# Mobile application - Figma
 ### เข้าสู่ระบบ
 ![login](https://user-images.githubusercontent.com/86649939/159632892-8b156cb8-0643-4b5f-ae78-a3aad65211d0.PNG)
 ### สมัครเป็นสมาชิก
@@ -57,7 +60,7 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 ![Drawer](https://user-images.githubusercontent.com/86649939/159634153-03706112-15cc-4459-a7eb-b0390aab4894.PNG)
 - จะแสดงชื่อและรูปภาพ และสามารถ login ออกได้เมื่อต้องการ
 
-## Mobile application
+# Mobile application
 ### Login
 ![login](https://user-images.githubusercontent.com/86649939/159638507-b881e703-1f30-4033-9629-dcf8814249fc.PNG)
 - หน้าเข้าสู่ระบบ จะเข้าได้ต้องทำการสมัครเป็นสมาชิกก่อน(Signup) หรือ เป็นสมาชิกแล้วแต่ลืมรหัสผ่าน(Forget password)
