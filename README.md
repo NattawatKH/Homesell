@@ -56,6 +56,7 @@ This command creates the generated files that parse each Record from Firestore i
 ### แสดงโปรไฟร์
 ![Drawer](https://user-images.githubusercontent.com/86649939/159634153-03706112-15cc-4459-a7eb-b0390aab4894.PNG)
 - จะแสดงชื่อและรูปภาพ และสามารถ login ออกได้เมื่อต้องการ
+
 ## Mobile application
 ### Login
 ![login](https://user-images.githubusercontent.com/86649939/159638507-b881e703-1f30-4033-9629-dcf8814249fc.PNG)
@@ -76,8 +77,8 @@ This command creates the generated files that parse each Record from Firestore i
 ### หน้า แสดงรายการ
 ![list](https://user-images.githubusercontent.com/86649939/159638801-70eb7147-4fe5-4e04-8d56-d64a7e050c9d.PNG)
 ![add](https://user-images.githubusercontent.com/86649939/159638817-875484c4-e4f9-4c0a-859b-7ab5b8fe1be9.PNG)
-
-### หน้า logout
+- จะแสดงรายการที่เราได้สร้างไว้ เมื่อคุณต้องการที่จะสร้างรายการให้กดที่ Icon ขวาบน จะแสดงหน้ารายละเอียดที่ต้องกรอก แล้วกด add ถือว่าสร้างสำเร็จ
+### หน้า แสคงโปรไฟร์
 ![Drawer](https://user-images.githubusercontent.com/86649939/159638849-a5540024-296f-441e-978a-b12b7893d503.PNG)
 
 
