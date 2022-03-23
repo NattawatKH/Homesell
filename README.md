@@ -44,8 +44,32 @@ This command creates the generated files that parse each Record from Firestore i
 ### หน้า แสดงรายการ
 ![list](https://user-images.githubusercontent.com/86649939/159634785-48a50a23-915c-49cf-affe-f0b17453705a.PNG)
 ![add](https://user-images.githubusercontent.com/86649939/159634091-3a67d4f1-12cb-415e-8802-55d085b75b9c.PNG)
-### หน้า login
+### หน้า logout
 ![Drawer](https://user-images.githubusercontent.com/86649939/159634153-03706112-15cc-4459-a7eb-b0390aab4894.PNG)
 
 ## Mobile application
+### Login
+![login](https://user-images.githubusercontent.com/86649939/159638507-b881e703-1f30-4033-9629-dcf8814249fc.PNG)
+### Sign up
+![sign up](https://user-images.githubusercontent.com/86649939/159638543-269b17ef-83e9-42a5-8f61-94dcf2992538.PNG)
+### Forget password
+![forget1](https://user-images.githubusercontent.com/86649939/159638595-26d50cec-111c-451c-a90f-cff302577faa.PNG)
+![forget2](https://user-images.githubusercontent.com/86649939/159638604-5b17585a-1ac5-4681-bdd8-9804dcb19424.PNG)
+### หน้าหลัก Home
+![Home](https://user-images.githubusercontent.com/86649939/159638667-b5bc5e31-61e1-45d4-9f9c-54ab32e5df24.PNG)
+![show](https://user-images.githubusercontent.com/86649939/159638676-e539d140-9e00-44f2-84ac-b5868d72b90b.PNG)
+### หน้า Chat
+![chat1](https://user-images.githubusercontent.com/86649939/159638709-a6e091cd-d34b-42cc-9d3d-4c90ef771f65.PNG)
+![chat2](https://user-images.githubusercontent.com/86649939/159638714-d39dfd95-9705-449a-b0b6-46f9798eb661.PNG)
+### หน้า รายการที่กดชื่นชอบ
+![like](https://user-images.githubusercontent.com/86649939/159638781-050b64fd-7876-4348-b27c-c595a179ae50.PNG)
+
+### หน้า แสดงรายการ
+![list](https://user-images.githubusercontent.com/86649939/159638801-70eb7147-4fe5-4e04-8d56-d64a7e050c9d.PNG)
+![add](https://user-images.githubusercontent.com/86649939/159638817-875484c4-e4f9-4c0a-859b-7ab5b8fe1be9.PNG)
+
+### หน้า logout
+![Drawer](https://user-images.githubusercontent.com/86649939/159638849-a5540024-296f-441e-978a-b12b7893d503.PNG)
+
+
 
