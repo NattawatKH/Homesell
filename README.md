@@ -34,5 +34,13 @@ This command creates the generated files that parse each Record from Firestore i
 ![Forget2](https://user-images.githubusercontent.com/86649939/159632932-db8d46e5-24b6-4556-a8a0-92a9675e128a.PNG)
 ### หน้าหลัก Home
 ![Home](https://user-images.githubusercontent.com/86649939/159633012-e325ebb9-7906-47da-be2a-fec049159c51.PNG)
-
-
+![show](https://user-images.githubusercontent.com/86649939/159633993-c7c653ee-8a3d-47a6-8688-cf7d78e32840.PNG)
+### หน้า Chat
+![chat](https://user-images.githubusercontent.com/86649939/159633619-612a7cad-d1b9-4461-9e99-26366127d80b.PNG)
+### หน้า รายการที่กดชื่นชอบ
+![Like](https://user-images.githu![show](https://user-images.githubusercontent.com/86649939/159633864-bcc25f46-18f4-4cc9-a339-654c3c875ec1.PNG)
+### หน้า แสดงรายการ
+![list](https://user-images.githubuserconten![add](https://user-images.githubusercontent.com/86649939/159634079-a59bc85f-04e2-4dd8-abaa-00b18838203b.PNG)
+![add](https://user-images.githubusercontent.com/86649939/159634091-3a67d4f1-12cb-415e-8802-55d085b75b9c.PNG)
+### หน้า login
+![Drawer](https://user-images.githubusercontent.com/86649939/159634153-03706112-15cc-4459-a7eb-b0390aab4894.PNG)
