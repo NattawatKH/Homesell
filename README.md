@@ -5,9 +5,6 @@
 ### ที่มาของปัญหา
 - ในการเลือกบ้านเราไม่รู้แน่ชัดว่าบ้านที่โพสต์นั้นมันเช่าหรือจะในการต่อสื่อสารมันค่อนข้างไม่สะดวก
 
-## เริ่มต้น
-
-โปรเจ็กต์ FlutterFlow สร้างขึ้นเพื่อรันบน Flutter รุ่นเสถียร
 
 ## Cilp
 [[video cilp demo]](https://www.youtube.com/watch?v=SA8-Indp9Lw)
@@ -15,6 +12,11 @@
 ## Use Case Diagram
 
 ![HomeApp Use case - Page 1](https://user-images.githubusercontent.com/86649939/159619909-2bc51f2d-8f8c-4eb9-bca3-0334bb3698d9.png?width=200&height=200)
+
+## เริ่มต้น
+
+โปรเจ็กต์ FlutterFlow สร้างขึ้นเพื่อรันบน Flutter รุ่นเสถียร
+
 
 ### สิ่งสำคัญ:
 
