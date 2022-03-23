@@ -41,7 +41,7 @@ This command creates the generated files that parse each Record from Firestore i
 ### หน้าหลัก Home
 ![Home](https://user-images.githubusercontent.com/86649939/159633012-e325ebb9-7906-47da-be2a-fec049159c51.PNG)
 ![show](https://user-images.githubusercontent.com/86649939/159633993-c7c653ee-8a3d-47a6-8688-cf7d78e32840.PNG)
-- หน้าจะแสดงรายการบ้านชนิดต่างให้เลือกเมื่อกดเข้าไปจะแสดงข้อมูลบ้านให้เห็น
+- หน้าจะแสดงรายการบ้านชนิดต่าๆงให้เลือกเมื่อกดเข้าไปจะแสดงข้อมูลบ้านให้เห็น
 ### หน้า Chat
 ![chat](https://user-images.githubusercontent.com/86649939/159633619-612a7cad-d1b9-4461-9e99-26366127d80b.PNG)
 ![chat](https://user-images.githubusercontent.com/86649939/159634872-d514885b-fbd1-4bc0-9cc1-7f68d17b99e4.PNG)
@@ -71,18 +71,20 @@ This command creates the generated files that parse each Record from Firestore i
 ### หน้าหลัก Home
 ![Home](https://user-images.githubusercontent.com/86649939/159638667-b5bc5e31-61e1-45d4-9f9c-54ab32e5df24.PNG)
 ![show](https://user-images.githubusercontent.com/86649939/159638676-e539d140-9e00-44f2-84ac-b5868d72b90b.PNG)
+- หน้าจะแสดงรายการบ้านชนิดต่าๆงให้เลือกเมื่อกดเข้าไปจะแสดงข้อมูลบ้านให้เห็น
 ### หน้า Chat
 ![chat1](https://user-images.githubusercontent.com/86649939/159638709-a6e091cd-d34b-42cc-9d3d-4c90ef771f65.PNG)
 ![chat2](https://user-images.githubusercontent.com/86649939/159638714-d39dfd95-9705-449a-b0b6-46f9798eb661.PNG)
+- แสดงแชตที่ได้ติดต่อไปเมื่อกดเข้าจะแสดงรายละเอียดการพูดคุย
 ### หน้า รายการที่กดชื่นชอบ
 ![like](https://user-images.githubusercontent.com/86649939/159638781-050b64fd-7876-4348-b27c-c595a179ae50.PNG)
-
+- เมื่อเห็นรายการในถุกใจแล้วกดถูกใจจะมาแสดงหน้านี้
 ### หน้า แสดงรายการ
 ![list](https://user-images.githubusercontent.com/86649939/159638801-70eb7147-4fe5-4e04-8d56-d64a7e050c9d.PNG)
 ![add](https://user-images.githubusercontent.com/86649939/159638817-875484c4-e4f9-4c0a-859b-7ab5b8fe1be9.PNG)
 - จะแสดงรายการที่เราได้สร้างไว้ เมื่อคุณต้องการที่จะสร้างรายการให้กดที่ Icon ขวาบน จะแสดงหน้ารายละเอียดที่ต้องกรอก แล้วกด add ถือว่าสร้างสำเร็จ
 ### หน้า แสคงโปรไฟร์
 ![Drawer](https://user-images.githubusercontent.com/86649939/159638849-a5540024-296f-441e-978a-b12b7893d503.PNG)
-
+- จะแสดงชื่อและรูปภาพ และสามารถ login ออกได้เมื่อต้องการ
 
 
