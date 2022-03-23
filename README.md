@@ -21,10 +21,11 @@ flutter packages pub run build_runner build --delete-conflicting-outputs
 
 This command creates the generated files that parse each Record from Firestore into a schema object.
 
+## Use Case Diagram
 ![HomeApp Use case - Page 1](https://user-images.githubusercontent.com/86649939/159619909-2bc51f2d-8f8c-4eb9-bca3-0334bb3698d9.png?width=200&height=200)
 
 
-## Use Case Diagram - Figma
+## Mobile application - Figma
 ### Login
 ![login](https://user-images.githubusercontent.com/86649939/159632892-8b156cb8-0643-4b5f-ae78-a3aad65211d0.PNG)
 ### Sign up
@@ -46,4 +47,5 @@ This command creates the generated files that parse each Record from Firestore i
 ### หน้า login
 ![Drawer](https://user-images.githubusercontent.com/86649939/159634153-03706112-15cc-4459-a7eb-b0390aab4894.PNG)
 
+## Mobile application
 
