@@ -41,17 +41,21 @@ This command creates the generated files that parse each Record from Firestore i
 ### หน้าหลัก Home
 ![Home](https://user-images.githubusercontent.com/86649939/159633012-e325ebb9-7906-47da-be2a-fec049159c51.PNG)
 ![show](https://user-images.githubusercontent.com/86649939/159633993-c7c653ee-8a3d-47a6-8688-cf7d78e32840.PNG)
+หน้าจะแสดงรายการบ้านชนิดต่างให้เลือกเมื่อกดเข้าไปจะแสดงข้อมูลบ้านให้เห็น
 ### หน้า Chat
 ![chat](https://user-images.githubusercontent.com/86649939/159633619-612a7cad-d1b9-4461-9e99-26366127d80b.PNG)
 ![chat](https://user-images.githubusercontent.com/86649939/159634872-d514885b-fbd1-4bc0-9cc1-7f68d17b99e4.PNG)
+แสดงแชตที่ได้ติดต่อไปเมื่อกดเข้าจะแสดงรายละเอียดการพูดคุย
 ### หน้า รายการที่กดชื่นชอบ
 ![Like](https://user-images.githubusercontent.com/86649939/159634749-e8ea4e7e-79ed-4da1-8240-431b500defcd.PNG)
+เมื่อเห็นรายการในถุกใจแล้วกดถูกใจจะมาแสดงหน้านี้
 ### หน้า แสดงรายการ
 ![list](https://user-images.githubusercontent.com/86649939/159634785-48a50a23-915c-49cf-affe-f0b17453705a.PNG)
 ![add](https://user-images.githubusercontent.com/86649939/159634091-3a67d4f1-12cb-415e-8802-55d085b75b9c.PNG)
-### หน้า logout
+จะแสดงรายการที่เราได้สร้างไว้
+### แสดงโปรไฟร์
 ![Drawer](https://user-images.githubusercontent.com/86649939/159634153-03706112-15cc-4459-a7eb-b0390aab4894.PNG)
-
+จะแสดงชื่อและรูปภาพ และสามารถ login ออกได้เมื่อต่องการ
 ## Mobile application
 ### Login
 ![login](https://user-images.githubusercontent.com/86649939/159638507-b881e703-1f30-4033-9629-dcf8814249fc.PNG)
